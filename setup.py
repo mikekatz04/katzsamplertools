@@ -11,5 +11,5 @@ setup(
         "katzsamplertools.utils",
         "katzsamplertools.samplers",
     ],
-    py_modules=["katzsamplertools.sampler_main"],
+    py_modules=["sampler_main"],
 )
