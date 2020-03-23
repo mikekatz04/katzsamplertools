@@ -3,8 +3,6 @@ from ptemcee.sampler import make_ladder
 import numpy as np
 from numpy.random.mtrand import RandomState
 from .sampler import Sampler
-from scipy.stats import norm
-import matplotlib.pyplot as plt
 import pdb
 from tqdm import tqdm
 from datetime import datetime
